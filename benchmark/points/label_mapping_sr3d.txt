@@ -1,0 +1,100 @@
+0	armchair
+1	backpack
+2	bag
+3	bar
+4	bathroom stall
+5	bathroom stall door
+6	bathroom vanity
+7	bathtub
+8	bed
+9	bench
+10	blackboard
+11	blanket
+12	blinds
+13	board
+14	book
+15	books
+16	bookshelf
+17	bottle
+18	box
+19	bulletin board
+20	cabinet
+21	cabinets
+22	cart
+23	chair
+24	closet
+25	clothes
+26	clothes dryer
+27	clothing
+28	coffee maker
+29	coffee table
+30	computer tower
+31	copier
+32	couch
+33	counter
+34	cup
+35	curtain
+36	desk
+37	door
+38	doors
+39	dresser
+40	end table
+41	file cabinet
+42	fireplace
+43	keyboard
+44	kitchen cabinet
+45	kitchen cabinets
+46	kitchen counter
+47	ladder
+48	lamp
+49	laptop
+50	laundry hamper
+51	light
+52	microwave
+53	mirror
+54	monitor
+55	mouse
+56	nightstand
+57	office chair
+58	ottoman
+59	oven
+60	paper towel dispenser
+61	person
+62	piano
+63	picture
+64	pillow
+65	pipe
+66	plant
+67	printer
+68	projector screen
+69	rack
+70	radiator
+71	rail
+72	recycling bin
+73	refrigerator
+74	shelf
+75	shoes
+76	shower
+77	sign
+78	sink
+79	soap dish
+80	sofa chair
+81	staircase
+82	stairs
+83	stool
+84	storage bin
+85	stove
+86	suitcase
+87	table
+88	telephone
+89	toilet
+90	toilet paper
+91	towel
+92	trash can
+93	tv
+94	tv stand
+95	wardrobe closet
+96	washing machine
+97	water cooler
+98	whiteboard
+99	window

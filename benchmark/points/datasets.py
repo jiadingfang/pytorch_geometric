@@ -16,3 +16,13 @@ def get_dataset(num_points):
                             pre_transform=pre_transform)
 
     return train_dataset, test_dataset
+
+
+if __name__ == '__main__':
+    train_dataset, test_dataset = get_dataset(num_points=1024)
+
+    sample = train_dataset[0]
+    print(sample) # Data(pos=[1024, 3], y=[1])
+
+    print(train_dataset)
+    print(test_dataset)
